@@ -1,5 +1,5 @@
 ## 👋 Hiya, I’m Yi / Chloe!
-🌱 Mainly learning Java and Python with some other languages sprinkled at the side
+🌱 Mainly learning Java and Python with some other languages sprinkled at the side<br>
 🌱 Currently pursuing an undergraduate degree in Computer Science<br>
 
 <!---

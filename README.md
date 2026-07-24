@@ -1,6 +1,6 @@
 ## 👋 Hiya, I’m Yi / Chloe!
-🎮 Currently pursuing an undergraduate degree in Computer Science<br>
-🎮 Game Dev Major
+🎮 Holding an undergraduate degree in Computer Science, majoring in Game Development<br>
+🎮 I love gaming and anything art-related
 
 <!---
 yier3an/yier3an is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
